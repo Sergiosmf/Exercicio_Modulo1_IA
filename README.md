@@ -31,8 +31,11 @@ Regras Técnicas
 
 Cronograma
 00:00 - 00:10 | Apresentação do desafio e formação dos times
+
 00:10 - 01:30 | Desenvolvimento (sem internet, apenas anotações pessoais)
+
 01:30 - 01:45 | Testes finais e apresentação do relatório no terminal
+
 01:45 - 02:00 | Avaliação das equipes e anúncio da equipe destaque
 
 Entregáveis
