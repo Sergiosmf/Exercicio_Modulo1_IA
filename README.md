@@ -1,1 +1,1 @@
-# Exerc-cio_Modulo1_IA
+# Exercicio_Modulo1_IA
